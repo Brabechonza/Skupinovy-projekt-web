@@ -8,7 +8,7 @@
     <body>
         <div class="stred" style="width: 84%;">
             <h1>Dračí ovoce</h1>
-            <h2>Dragon fruit, dračí ovoce, čínsky 火龍果/龙果 (ohnivý drak) či vietnamsky thanh long (zelený drak), je označení pro plody rodu Hylocereus z čeledi kaktusovitých. Jsou více známé pod názvem pitahaya, zkráceně pitaya, ale tento název je používán i pro mnoho dalších druhů kaktusů, které nespadají pod dračí ovoce a do rodu Hylocereus. Jsou široce pěstované v tropickém pásmu, mimo Ameriku zejména v Asii, kde nejsou původní. Snáší dobře i subtropické pásmo, kde se pěstují v Izraeli[1] a na Kanárských ostrovech.[2] Plody jsou dodávány do obchodních řetězců po celém světě. Výraz pitaya nebo pitahaya pochází z Velkých Antil, z indiánského jazyka Taino a znamená "šupinaté ovoce"[2]. 109 / 5 000</h2>
+            <h2>Jsou široce pěstované v tropickém pásmu, mimo Ameriku zejména v Asii, kde nejsou původní. Snáší dobře i subtropické pásmo, kde se pěstují v Izraeli a na Kanárských ostrovech. Plody jsou dodávány do obchodních řetězců po celém světě.</h2>
         </div>
 
         <div class="navbar" style="width: 15%;">

@@ -3,7 +3,7 @@
         <head>
             <meta charset="UTF-8">
             <title>Liči</title>
-            <link rel="stylesheet" href="lici.css">
+            <link rel="stylesheet" href="banan.css">
         </head>
         <body>
             <div class="stred" style="width: 84%;">
